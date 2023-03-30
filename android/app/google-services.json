@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "615839265732",
+    "project_id": "cities-world",
+    "storage_bucket": "cities-world.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:615839265732:android:1fe3c2df2fe78589df6a91",
+        "android_client_info": {
+          "package_name": "br.com.intellicient.gpe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "615839265732-m2jd9fv142v1jspmlcm3al72ddgrp33t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSDrtX-ZY116ovWewxk9uxMMOLtbsVm6k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "615839265732-m2jd9fv142v1jspmlcm3al72ddgrp33t.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "615839265732-bm28u9p68dhkrtkea9m6lrs50ea4it9l.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "br.com.intellicient.gpe"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:615839265732:android:3f83030549113c9edf6a91",
+        "android_client_info": {
+          "package_name": "com.example.smash_frontend_citiesworld"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "615839265732-m2jd9fv142v1jspmlcm3al72ddgrp33t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSDrtX-ZY116ovWewxk9uxMMOLtbsVm6k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "615839265732-m2jd9fv142v1jspmlcm3al72ddgrp33t.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "615839265732-bm28u9p68dhkrtkea9m6lrs50ea4it9l.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "br.com.intellicient.gpe"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
